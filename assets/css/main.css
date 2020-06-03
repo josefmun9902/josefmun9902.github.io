@@ -3756,7 +3756,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color: #b0b0b0;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
@@ -3953,7 +3953,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #f5f5f5;
+		background-color: #f0f0f0;
 		color: #909498;
 		cursor: default;
 		position: relative;
